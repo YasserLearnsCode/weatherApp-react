@@ -5,24 +5,25 @@ export default function Foooter() {
   return (
     <div className="Footer">
       <footer>
-        Coded by {" "}
+        Coded by{" "}
         <a
-          href="https://github.com/YasserLearnsCode"
+          href="https://yasserkabulimbo.netlify.app"
           target="_blank"
           rel="noopener"
         >
           Yasser Kabulimbo {"  "}
         </a>
-        . Hosted {" "}
+        . Hosted{" "}
         <a
-          href="https://github.com/YasserLearnsCode/Weather-App-Project-SheCodes"
+          href="https://github.com/YasserLearnsCode/weatherApp-react"
           target="_blank"
           rel="noopener"
         >
           on Github
-        </a> {" "}
+        </a>{" "}
         & open sourced on
-        <a href="" target="_blank" rel="noopener"> {" "}
+        <a href="" target="_blank" rel="noopener">
+          {" "}
           Netlify
         </a>
       </footer>
