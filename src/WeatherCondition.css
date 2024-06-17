@@ -1,0 +1,41 @@
+.city-element {
+  font-size: 1.3em;
+}
+
+.temp-element {
+  display: flex;
+}
+
+.metric {
+  display: inline-flex;
+  font-size: 22px;
+}
+
+.city-temp {
+  display: inline-flex;
+  color: rgb(219, 78, 78, 100%);
+  margin-top: 15px;
+}
+
+.humidity {
+  color: rgb(255, 108, 99, 100%);
+}
+
+.wind-speed,
+.daily-max-color,
+.daily-min-color {
+  color: rgb(255, 108, 99, 100%);
+}
+
+.forecast-day {
+  color: rgba(0, 0, 0, 0.711);
+}
+
+.condition {
+  font-size: 13px;
+  font-weight: normal;
+  color: rgba(0, 0, 0, 0.711);
+}
+.temp-element {
+  font-size: 2.5em;
+}

@@ -1,0 +1,39 @@
+.forecast-container {
+  background-color: rgb(254, 250, 247, 100%);
+  max-width: 500px;
+  margin: 10px auto;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.forecast-title {
+  margin-top: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid lightgray;
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+.row {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+  border-spacing: 10px;
+  border-bottom: 1px solid lightgray;
+}
+
+.col {
+  display: table-cell;
+}
+
+.forecast {
+  padding-bottom: 5px;
+}
+
+.forecast-temp-max-color {
+  color: rgb(255, 108, 99, 100%);
+}
+
+.forecast-icon {
+  width: 70px;
+}
